@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Shams</h1>
 
-<!--
-**shamsshykh/shamsshykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Software Engineer by my choice. I love creating well-structured and designed mobile apps with readable, clean code.</h3>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsshykh&show_icons=true&locale=en" alt="shamsshykh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsshykh&show_icons=true&locale=en&layout=compact" alt="shamsshykh" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shamsshykh&label=Profile%20views&color=0e75b6&style=flat" alt="shamsshykh" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsshykh" alt="shamsshykh" /></a> </p>
 
 Here are some ideas to get you started:
 
