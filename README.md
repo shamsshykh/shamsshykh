@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shams</h1>
 
-<h3 align="center">A Software Engineer by my choice. I love creating well-structured and designed mobile apps with readable, clean code.</h3>
+<h3 align="center">A Software Engineer by my profession. I love creating well-structured and designed mobile apps with readable, clean code.</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsshykh&show_icons=true&locale=en" alt="shamsshykh" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsshykh&show_icons=true&locale=en&layout=compact" alt="shamsshykh" /></p>
@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsshykh" alt="shamsshykh" /></a> </p>
 
-- 🔭 I’m currently working on [eZhire](https://play.google.com/store/apps/details?id=com.ionicframework.conference463383&hl=en&gl=US)
+- 🔭 I’m currently working at [eZhire](https://play.google.com/store/apps/details?id=com.ionicframework.conference463383&hl=en&gl=US)
 
 - 🌱 I’m currently learning **KMM**
 
